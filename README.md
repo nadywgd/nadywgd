@@ -3,4 +3,4 @@
 Full Stack Engineer at FlexCar, based in Athens. I build web applications and backend systems end to end with React, Node.js, Go and AWS.
 
 - 🌐 Portfolio: [nadywgd.github.io](https://nadywgd.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nady-wagdy) · ✉️ nadywgd@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nady-wagdy)
